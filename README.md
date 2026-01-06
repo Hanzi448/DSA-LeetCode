@@ -1,21 +1,33 @@
-# DSA-LeetCode 🚀
+# 🚀 DSA-LeetCode
 
-## Repository Overview
+> _Building strong Data Structures & Algorithms foundations through consistent LeetCode practice._
+
+---
+
+## 📘 Repository Overview
 This repository contains my solutions to **LeetCode Data Structures & Algorithms problems**, implemented in **Java**.  
-The focus is on building strong fundamentals in **Arrays, Linked Lists, Stacks, Queues, and Binary Search**.
+The goal of this repo is to strengthen core concepts such as:
 
-All solutions are pushed to this **public GitHub repository**.
+**Arrays · Linked Lists · Stacks · Queues · Binary Search**
 
+All solutions are pushed to this **public GitHub repository** and are fully accepted on LeetCode.
+
+---
+
+## Problem-Solving Progress
+
+```yaml
 - **Platform:** LeetCode  
-- **Language:** Java  
-- **Total Problems Solved:** 15
+- **Language:** Java
+```
 
 ---
 
 ## Problems Solved
 
-| # | LeetCode ID | Problem Name |
-|---|------------|--------------|
+```yaml
+| # | ID | Problem |
+|---|----|--------|
 | 1 | 1 | Two Sum |
 | 2 | 27 | Remove Element |
 | 3 | 35 | Search Insert Position |
@@ -31,23 +43,34 @@ All solutions are pushed to this **public GitHub repository**.
 |13 | 792 | Binary Search |
 |14 | 882 | Peak Index in a Mountain Array |
 |15 | 933 | Number of Recent Calls |
-
+```
 ---
 
 ## Tools & Approach
-- Implemented using **Java**
-- Solutions follow **optimal time and space complexity**
-- Each folder contains:
-  - Problem solution
-  - LeetCode-accepted implementation
-- Code synced using **LeetSync**
+
+```yaml
+- **Language:** Java  
+- **Approach:** Optimal time & space complexity
+- **Code Style:** Clean, readable, interview-ready
+- **Sync Tool:** LeetSync
+```
+
+Each folder contains a problem-specific, LeetCode-accepted solution.
 
 ---
 
 ## Author
-**Hanzala Salaheen**
-Portfolio: hanzalasalaheen.vercel.app
 
+**Hanzala Salaheen**  
+```yaml
+🌐 Portfolio: [hanzalasalaheen.vercel.app](https://hanzalasalaheen.vercel.app)  
+🐙 GitHub: [github.com/HanzalaSalaheen](https://github.com/HanzalaSalaheen)
+```
 ---
 
-Happy Coding! 💻✨
+```yaml
+> _“Consistency beats intensity.”_  
+> Happy Coding! 💻✨
+```
+
+
